@@ -1,4 +1,4 @@
-### About me...
+### Who am I?
 
 🔨 I'm Seán, 22 years old, from the West of Ireland (Galway and Sligo). I'm a final year Electronic and Computer Engineering student at the University of Galway.
 
