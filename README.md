@@ -1,14 +1,14 @@
-### What's up/ Aon scéal
+### Intro 👋
 
 👤 I'm Seán, 22 years old, from the West of Ireland (Galway and Sligo). I'm a final year Electronic and Computer Engineering student at the University of Galway.
 
 🌐 My technical background comes from startups... I founded my first startup in first year of college (@receiptrelay). We built a B2B SaaS plug and play software for merchants that enabled users to get an e-receipt without giving up their email address. Later on we evolved into building customer analytics software for larger retailers and raised >€70k at pre-seed.
 
-🔨 I'm currently finishing college and am working on several *smaller* projects on a mission to increase the breadth of my techy-ness before launching into my next *big* project. Main areas of interest at the moment is AI and electronics.
+🔨 I'm currently working on several *small* projects before launching into my next *big* project after I finish college. I've just finished coding my Final Year Project which enables end users to file expenses from the Point of Sale. You can watch the demo here: https://www.loom.com/share/f56124bef184407ea3735e08ecf022f7
 
-🤖 My tech stack at the moment is Python, React.js, Node.js, Express/Axios and MongoDB. 
+🤖 My tech stack at the moment is Python, Javascript (React.js), Express/Axios, MongoDB and Node.js. I'm working with OpenAI/OpenCV and APIs as areas of personal interest.
 
-📱 My areas of interest outside of tech are surfing, cooking and few other random bits. I'm always open to connecting so if you want to chat, DM on Twitter @s3anfinnegan or connect on LinkedIn at Seán Finnegan.
+📱 I'm always open to connecting so if you want to chat, DM me on Twitter @s3anfinnegan or connect with me on LinkedIn at Seán Finnegan.
  
 
 
